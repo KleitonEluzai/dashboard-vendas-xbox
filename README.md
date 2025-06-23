@@ -45,4 +45,4 @@ Neste projeto, trabalhei com uma base de dados fictícia de vendas de produtos X
 - Power Query (para organizar os dados)
 - Tabelas e Gráficos Dinâmicos
 - Segmentações e filtros
-- Fórmu
+- Fórmulas
