@@ -1,6 +1,6 @@
 # 🎮 Dashboard de Vendas do Xbox
 
-Olá! Esse é um projeto que desenvolvi como parte de um desafio da plataforma DIO (Digital Innovation One). O objetivo era aplicar na prática o que venho estudando sobre Excel, visualização de dados e criação de dashboards — tudo com foco em melhorar minhas habilidades e me preparar para o mercado de trabalho como analista de dados júnior.
+Olá! Esse é um projeto que desenvolvi como parte de um desafio da plataforma DIO (Digital Innovation One). O objetivo era aplicar na prática o que venho estudando sobre Excel, visualização de dados e criação de dashboards — tudo com foco em melhorar minhas habilidades e me preparar para o mercado de trabalho como Analista de Dados.
 
 ---
 
